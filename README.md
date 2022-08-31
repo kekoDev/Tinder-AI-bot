@@ -8,4 +8,4 @@ Tinder AI bot with python and deepface
 -- `python get-pip.py`
 3. `pip install -r requirements.txt`
 
---*install done*
+__install done__
