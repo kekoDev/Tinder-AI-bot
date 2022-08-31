@@ -8,6 +8,7 @@ Tinder AI bot with python and deepface
 -- `curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py`
 
 -- `python get-pip.py`
+
 3. `pip install -r requirements.txt`
 
 __install done__
