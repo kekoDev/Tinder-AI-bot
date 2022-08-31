@@ -19,7 +19,9 @@ __install done__
 
 - 1. tinder_auth 
 
-- 2. telegram_token
+- 2. telegram_token : you get it form this bot : @BotFather
+
+- 3. chat_id : you get it form this bot : @getidsbot
 
 - 3. gender : `Man` - `Woman`
 
