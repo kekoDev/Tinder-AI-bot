@@ -17,13 +17,13 @@ __install done__
 
 1. Edit __account.json__ and put your info 
 
-1. tinder_auth 
+ 1. tinder_auth 
 
-2. telegram_token
+ 2. telegram_token
 
-3. gender : `Man` - `Woman`
+ 3. gender : `Man` - `Woman`
 
-4. race : `asian` - `indian` - `black` - `white` - `middle eastern` - `latino hispanic`
+ 4. race : `asian` - `indian` - `black` - `white` - `middle eastern` - `latino hispanic`
 
 2. run main : `python main.py`
 
