@@ -1,0 +1,5 @@
+urllib3
+deepface
+contextlib2
+opencv-python
+numpy
