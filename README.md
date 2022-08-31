@@ -1,5 +1,5 @@
 # Tinder-AI-bot
-Tinder AI bot with python and deepface
+Tinder AI bot auto like and dislike with python and deepface
 
 # Install :
 1. install python : https://www.python.org/downloads/
