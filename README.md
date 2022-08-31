@@ -12,3 +12,10 @@ Tinder AI bot with python and deepface
 3. `pip install -r requirements.txt`
 
 __install done__
+
+# Run :
+
+1. Edit __account.json__ and put your info 
+
+2. run main : `python main.py`
+
